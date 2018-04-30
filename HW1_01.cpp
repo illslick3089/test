@@ -15,6 +15,7 @@ int main()
 	cin  >> a;
 	cin  >> b;
 	sum = a+b;
-	cout << "" << sum << endl; 
+	cout << "" << sum << endl;
+	cout << "numtab" << endl;
 	return 0;
 }//End Main
